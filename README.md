@@ -10,7 +10,7 @@
 <body>
   <table cellspacing=20>
     <tr>
-      <td> <img src="D:\Desktop\Web Development\HTML-personal site\images\pic.png" alt="Pari Profile Picture" height="200"></td>
+      <td> <img src="images\pic.png" alt="Pari Profile Picture" height="200"></td>
       <td>
         <h1>Pari Dandona</h1>
         <p>
